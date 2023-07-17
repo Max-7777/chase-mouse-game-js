@@ -1,2 +1,2 @@
 # chase-mouse-game-js
-A simple game demoing some html canvas and javascript concepts
+A simple game showing how to use html & javascript to make a web game.
